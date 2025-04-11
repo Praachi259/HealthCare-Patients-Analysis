@@ -51,7 +51,7 @@ June tends to see the highest number of admissions annually.
 
 Northwestern Memorial Hospital handles the highest number of patients.
 
-# 
+
 
 
 
