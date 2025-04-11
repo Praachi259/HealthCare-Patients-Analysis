@@ -2,6 +2,8 @@
 
 <img src="starting.png" width=1000>
 
+Tableau public = https://public.tableau.com/app/profile/prachi.lidbe/viz/HealthcareAnalysis_17443680886840/Story1?publish=yes
+
 # Project Overview
 Patient Overview Dashboard, provides a comprehensive visual analysis of patient admissions and health conditions across several hospitals. It is designed to help healthcare professionals and decision-makers gain insights into patient demographics, top medical conditions, hospital-wise admissions, and trends over time.
 
