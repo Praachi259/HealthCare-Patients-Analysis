@@ -43,13 +43,21 @@ Horizontal bar chart showing the number of admissions per hospital.
 Top hospital: Northwestern Memorial Hospital.
 
 # Key Insights
+<img src="Male Female Medical Conditions.png" width=1000>
+
 Male patients show a higher range of Asthma cases.
 
 Female patients more commonly present with Flu.
 
+<img src="highest month of admission.png" width=1000>
+
 June tends to see the highest number of admissions annually.
 
+<img src="HIghest patient Admission Hospital.png" width=1000>
+
 Northwestern Memorial Hospital handles the highest number of patients.
+
+
 
 
 
